@@ -1,5 +1,7 @@
 # Weather-App-v2
 
+## Built using MVVM Architecture.
+## Beginners app
 
 ## To use the app, you will need an "{ API KEY }" from openweathermap.org
 ### Replace "{ API KEY }" with your API key
