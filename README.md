@@ -21,3 +21,6 @@
 
 
 ## Still new to iOS Development. This is me documenting my journey ☺️
+
+<img width="415" alt="Screenshot 2021-06-05 at 22 19 06" src="https://user-images.githubusercontent.com/69020285/120905750-22e24380-c64c-11eb-881e-cc9889ea8856.png">
+<img width="400" alt="Screenshot 2021-06-05 at 22 19 27" src="https://user-images.githubusercontent.com/69020285/120905752-24ac0700-c64c-11eb-92bd-9b8488f26cd6.png">
